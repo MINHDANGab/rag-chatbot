@@ -9,6 +9,8 @@ __pycache__/
 *.pyo
 *.pyd
 
+/data
+
 # Virtual environment
 venv/
 .venv/
