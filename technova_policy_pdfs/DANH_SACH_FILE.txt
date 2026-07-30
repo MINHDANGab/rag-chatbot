@@ -1,0 +1,14 @@
+BỘ DỮ LIỆU QUY ĐỊNH CÔNG TY TECHNOVA - DẠNG NHIỀU FILE PDF
+
+01. 01_gioi_thieu.pdf
+02. 02_thoi_gian_lam_viec.pdf
+03. 03_nghi_phep.pdf
+04. 04_lam_viec_tu_xa.pdf
+05. 05_bao_mat_thong_tin.pdf
+06. 06_su_dung_thiet_bi.pdf
+07. 07_quy_tac_ung_xu.pdf
+08. 08_hop_va_giao_tiep.pdf
+09. 09_danh_gia_hieu_suat.pdf
+10. 10_chi_phi_cong_tac.pdf
+11. 11_khen_thuong_ky_luat.pdf
+12. 12_bo_cau_hoi_kiem_thu_rag.pdf
