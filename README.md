@@ -45,13 +45,13 @@ Câu trả lời
 langchain-learning/
 ├── .env
 ├── .gitignore
-├── lang_chain(8).ipynb
+├── lang_chain.ipynb
 └── README.md
 ```
 
 ## Nội dung notebook
 
-Notebook `lang_chain(8).ipynb` gồm:
+Notebook `lang_chain.ipynb` gồm:
 
 1. Khởi tạo `ChatOpenAI`
 2. Sử dụng `invoke()`, `batch()`, `stream()`
@@ -122,7 +122,7 @@ jupyter notebook
 Mở file:
 
 ```text
-lang_chain(8).ipynb
+lang_chain.ipynb
 ```
 
 Nên chạy các cell từ trên xuống dưới.
